@@ -1,0 +1,24 @@
+﻿  Building 'Hidden' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping x64\Release\Hidden.inf [Version] section with DriverVer=04/02/2018,19.26.13.846
+C:\Users\user\Desktop\hidden-master\Hidden\Hidden.inf(73-73): warning 1205: Section [MiniFilter.DriverFiles] referenced from DelFiles and CopyFiles directive.
+  PsMonitor.c
+PsMonitor.c(115): warning C4100: 'OperationInformation': unreferenced formal parameter
+PsMonitor.c(115): warning C4100: 'RegistrationContext': unreferenced formal parameter
+  Hidden.vcxproj -> C:\Users\user\Desktop\hidden-master\x64\Release\Hidden.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\user\Desktop\hidden-master\x64\Release\Hidden.sys
+  
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\user\Desktop\hidden-master\x64\Release\Hidden\hidden.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\user\Desktop\hidden-master\x64\Release\Hidden\hidden.cat
+  

@@ -1,0 +1,26 @@
+﻿  stdafx.cpp
+  UsermodeProgram.cpp
+UsermodeProgram.cpp(74): warning C4005: 'IO_READ_REQUEST': macro redefinition
+  c:\users\user\desktop\usermodeprogram\usermodeprogram\Driver.h(8): note: see previous definition of 'IO_READ_REQUEST'
+UsermodeProgram.cpp(88): warning C4101: 'Return': unreferenced local variable
+UsermodeProgram.cpp(230): warning C4244: 'initializing': conversion from 'DWORD64' to 'DWORD_PTR', possible loss of data
+UsermodeProgram.cpp(257): warning C4244: 'initializing': conversion from 'DWORD64' to 'DWORD_PTR', possible loss of data
+UsermodeProgram.cpp(258): warning C4244: 'initializing': conversion from 'DWORD64' to 'DWORD_PTR', possible loss of data
+UsermodeProgram.cpp(259): warning C4244: 'initializing': conversion from 'DWORD64' to 'DWORD_PTR', possible loss of data
+UsermodeProgram.cpp(260): warning C4244: 'initializing': conversion from 'DWORD64' to 'DWORD_PTR', possible loss of data
+UsermodeProgram.cpp(261): warning C4244: 'initializing': conversion from 'DWORD64' to 'DWORD_PTR', possible loss of data
+UsermodeProgram.cpp(262): warning C4244: 'initializing': conversion from 'DWORD64' to 'DWORD_PTR', possible loss of data
+UsermodeProgram.cpp(263): warning C4244: 'initializing': conversion from 'DWORD64' to 'float', possible loss of data
+UsermodeProgram.cpp(268): warning C4244: 'initializing': conversion from 'DWORD64' to 'float', possible loss of data
+UsermodeProgram.cpp(269): warning C4244: 'initializing': conversion from 'DWORD64' to 'float', possible loss of data
+UsermodeProgram.cpp(270): warning C4244: 'initializing': conversion from 'DWORD64' to 'float', possible loss of data
+UsermodeProgram.cpp(271): warning C4244: 'initializing': conversion from 'DWORD64' to 'float', possible loss of data
+UsermodeProgram.cpp(273): warning C4244: 'argument': conversion from 'float' to 'DWORD64', possible loss of data
+UsermodeProgram.cpp(274): warning C4244: 'argument': conversion from 'float' to 'DWORD64', possible loss of data
+UsermodeProgram.cpp(275): warning C4244: 'argument': conversion from 'float' to 'DWORD64', possible loss of data
+UsermodeProgram.cpp(276): warning C4244: 'argument': conversion from 'float' to 'DWORD64', possible loss of data
+UsermodeProgram.cpp(197): warning C4101: 'ProcessId': unreferenced local variable
+  Generating code
+  All 201 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  UsermodeProgram.vcxproj -> C:\Users\user\Desktop\UsermodeProgram\Release\UsermodeProgram.exe
