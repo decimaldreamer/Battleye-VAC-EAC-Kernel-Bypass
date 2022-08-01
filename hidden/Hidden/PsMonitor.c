@@ -28,7 +28,7 @@ typedef struct _ProcessListEntry {
 	ULONG inherit;
 } ProcessListEntry, *PProcessListEntry;
 
-/CONST ProcessListEntry g_excludeProcesses[] = {
+CONST ProcessListEntry g_excludeProcesses[] = {
 	{ NULL, PsRuleTypeWithoutInherit }
 };
 

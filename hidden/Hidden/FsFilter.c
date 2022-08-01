@@ -43,7 +43,7 @@ CONST FLT_REGISTRATION FilterRegistration = {
 	FLTFL_REGISTRATION_DO_NOT_SUPPORT_SERVICE_STOP,                        
 	Contexts,                 
 	Callbacks,                
-	/NULL,    
+	NULL,    
 	FilterSetup,              
 	NULL,                     
 	NULL,                     
